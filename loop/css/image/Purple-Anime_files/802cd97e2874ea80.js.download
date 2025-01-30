@@ -1,9 +1,0 @@
-(self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[71555],{
-
-/***/ 594642:
-function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(813110);self._5880d4398c473aa67256e87589eaef11 = self._5880d4398c473aa67256e87589eaef11 || {};(function(__c) {__c.wbf=function(a){return`${__c.zh(__c.xh(["template-sets",a]))}/`};
-__c.aj.prototype.Lxb=__c.ha(52,async function(a){__c.ma(null!=a.userId&&/^U[a-zA-Z0-9_-]{10}$/.test(a.userId),"GetPrivacyPreferencesRequest#userId does not match: U[a-zA-Z0-9_-]{10}");const b=__c.xh([__c.U8a,"privacypreferences",a.userId]);__c.uh(b,{includeUserDetails:a.t$b,includeBrandLevelEligible:a.eYc});a=__c.zh(b);const [c,{Awd:d}]=await Promise.all([this.ya.get(a,{Pa:"getprivacypreferences"}),__webpack_require__.me(44565).then(()=>({Awd:__c.xbf}))]);return d.deserialize(c)});
-}).call(self, self._5880d4398c473aa67256e87589eaef11);}
-
-}])
-//# sourceMappingURL=sourcemaps/802cd97e2874ea80.js.map

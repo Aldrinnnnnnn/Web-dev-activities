@@ -1,8 +1,0 @@
-(self["webpackChunk_canva_web"] = self["webpackChunk_canva_web"] || []).push([[68377],{
-
-/***/ 675810:
-function(_, __, __webpack_require__) {__webpack_require__.n_x = __webpack_require__.n;const __web_req__ = __webpack_require__;__web_req__(813110);self._5880d4398c473aa67256e87589eaef11 = self._5880d4398c473aa67256e87589eaef11 || {};(function(__c) {var zJd,yJd;zJd=function(a,b){return yJd.toArray(Array.from(b,(c,d)=>{if(c instanceof Element){const f=zJd(a,c.childNodes),g=a.wda.get(c.tagName.toUpperCase());if(g)try{return g(c,f,d)}catch(h){var e;null===(e=a.onError)||void 0===e?void 0:e.call(a,h)}return f}if(c instanceof Text)return c.textContent}))};__c.Wz=function(a,b,c){a.wda.set(b.toUpperCase(),c);return a};yJd=__webpack_require__(875604).Children;__c.Xz=class{render(a){return zJd(this,this.mve.parseFromString(a,"text/html").body.childNodes)}constructor(a){this.onError=a;this.wda=new Map;this.mve=new DOMParser}};
-}).call(self, self._5880d4398c473aa67256e87589eaef11);}
-
-}])
-//# sourceMappingURL=sourcemaps/fb01e707a0ff43ca.js.map
